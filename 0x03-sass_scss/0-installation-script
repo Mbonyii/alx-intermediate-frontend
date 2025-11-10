@@ -1,0 +1,13 @@
+Steps to install SASS on Windows:
+
+1. Verified Node.js and npm are installed:
+   - Node.js version: v22.17.0
+   - npm version: 11.6.1
+
+2. Installed SASS using npm in PowerShell:
+   npm install -g sass
+
+3. Verified installation:
+   sass --version  # Shows version 1.93.3
+
+4. SASS successfully installed and ready to compile .scss files.
